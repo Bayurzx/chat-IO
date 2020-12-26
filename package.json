@@ -1,0 +1,30 @@
+{
+  "name": "chat-io",
+  "version": "1.0.0",
+  "description": "A simple chat app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bayurzx/chat-IO.git"
+  },
+  "keywords": [
+    "chat",
+    "socket.io",
+    "express"
+  ],
+  "author": "Adebayo Omolumo",
+  "dependencies": {
+    "express": "*",
+    "nodemon": "^2.0.6",
+    "socket.io": "*"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bayurzx/chat-IO/issues"
+  },
+  "homepage": "https://github.com/Bayurzx/chat-IO#readme"
+}
